@@ -1,9 +1,9 @@
-```
+---
 layout: post
 title:  "REVIEW GAME RUBE’S LAB"
 tags: review
 class: post
-```
+---
 
 Lab Rube merupakan sebuah permainan yang masuk dalam kategori puzzle. Disetiap level dalam permainan ini kita harus memecahkan teka-teki yang di buat oleh Dr. Evil, dimana dalam memecahkannya menggunakan logika dan imajinasi yang kamu punya. Memecahkan permainan ini juga hanya menggunakan alat-alat yang terbatas. Buatlah mekanisme yang menakjubkan dalam setiap level.
 
