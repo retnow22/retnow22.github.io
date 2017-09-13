@@ -1,40 +1,34 @@
 ```
----
 layout: post
 title:  "REVIEW GAME RUBE’S LAB"
 tags: review
 class: post
----
 ```
 
 Lab Rube merupakan sebuah permainan yang masuk dalam kategori puzzle. Disetiap level dalam permainan ini kita harus memecahkan teka-teki yang di buat oleh Dr. Evil, dimana dalam memecahkannya menggunakan logika dan imajinasi yang kamu punya. Memecahkan permainan ini juga hanya menggunakan alat-alat yang terbatas. Buatlah mekanisme yang menakjubkan dalam setiap level.
 
-DPE Framework
+-DPE Framework
 
 
--Learning
+- Learning
 Pada game ini, aspek pembelajaran menjadi point utama, yaitu dalam setiap level dari game ini pemain diarahkan untuk mempelajari setiap alat yang harus digunakan untuk menjalankan puzzle fisika yang ada. Setiap kenaikan level, akan lebih banyak alat-alat yang memiliki fungsi beragam, sehingga memerlukan analisa yang baik dari pemain, di sini pemain akan merasa tertantang untuk menyelesaikan setiap permasalahan dari puzzle fisika yang ada.
 
 - Storytelling
 Storytelling tidak menjadi hal pokok dalam game ini. Pada game ini hanya memuat dua karakter, yaitu Dr. Evil, dan doktor yang menjadi pengarah untuk pemain. Selain itu dalam setiap levelnya tidak menggambarkan suatu cerita, tidak terkait satu sama lain. Setiap levelnya saling bebas. Latar yang digunakan pun abstrak, tidak menggambarkan lab atau sesuatu yang ada di dunia nyata. Game ini lebih menjual teka-teki atau tantangan pada setiap levelnya dengan kerumitan yang meningkat.
 
--Gameplay
+- Gameplay
 Dari sisi gameplay tidak terlalu spesial, namun cukup menarik. Mechanic yang menarik pada game ini yaitu, pergerakan dari alat-alat yang menjadi bagian dari puzzle, pergerakannya terlihat natural seperti pada kejadian di dunia nyata. Dan mekanisme dari puzzle yang cukup menarik, karena ketika puzzle berhasil dipasang, akan ditampilkan efek domino dari objek atau benda yang menjadi tantangan di game ini. Setiap kenaikan level akan semakin banyak alat yang fungsinya lebih kompleks, sehingga membuat game lebih sulit dari pada level sebelumnya. 
-
-
 
 - User Experience
 User interface yang dibuat simpel, desain 2D yang simpel namun menggambarkan keadaan sesungguhnya dari alat-alat yang digunakan menjadi salah satu kekuatan dari game ini. Selain itu didukung dengan efek suara sehingga membuat game lebih hidup. Backsound yang membuat pemain lebih relaks dalam berpikir untuk menyusun puzzle.
 
 
-
-Review dari segi marketing
+-Review dari segi marketing
 
 Saya mengetahui games ini bukan dari iklan manapun, tetapi melalui pengalaman dari pemain sebelumnya. Dari segi marketing sangat kurang, namun pengalaman menarik yang didapat setelah bermain game ini membuat pemain menjadi alat marketingnya atau bisa disebut dengan client marketer, namun jika mencari prospek atau keuntungan yang besar cara ini kurang direkomendasi, karena saat ini pangsa pasar game, terutama mobile cukup besar.
 
 Untuk game lain yang menggunakan sarana marketing cukup fantastis adalah AOV, yang saat ini banyak sekali baner iklan yang dipasang di berbagai tempat umum, seperti di stasiun kereta api, ataupun lainnya. Namun saya sendiri belum pernah memainkan game dengan iklan yang fantastis, untuk menguji apakah game tersebut menarik dan sesuai dengan yang diiklankan.
 
 
-Kesimpulan..
-
+-Kesimpulan..
 Game Rube’s Lab menjadi menarik karena challenge atau tantangan yang disajikan, kerumitan yang bertahap melalui level-level, membuat pemain akan selalu merasa penasaran dan tertantang untuk menyelesaikan game ini. Dari pengalaman pribadi saya belum pernah menyelesaikan game ini hingga level akhir, dikarenakan permasalahan yang cukup sulit, dan waktu yang diperlukan untuk bermain game ini cukup banyak. Game ini cukup sesuai dengan tipikal orang yang senang berpikir dan menganalisis suatu permasalahan. Target pasar, game ini dapat dimainkan oleh seseorang dengan tingkat usia kurang lebih 7 - 50 tahun namun sesuai dengan lingkungan kesehariannya. Dan mungkin akan lebih menarik bagi orang usia kurang lebih 15 - 30 tahun.
