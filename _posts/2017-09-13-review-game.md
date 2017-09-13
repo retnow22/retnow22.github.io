@@ -5,7 +5,8 @@ title:  "REVIEW GAME RUBE’S LAB"
 tags: review
 class: post
 ---
- 
+```
+
 Lab Rube merupakan sebuah permainan yang masuk dalam kategori puzzle. Disetiap level dalam permainan ini kita harus memecahkan teka-teki yang di buat oleh Dr. Evil, dimana dalam memecahkannya menggunakan logika dan imajinasi yang kamu punya. Memecahkan permainan ini juga hanya menggunakan alat-alat yang terbatas. Buatlah mekanisme yang menakjubkan dalam setiap level.
 
 DPE Framework
@@ -37,5 +38,3 @@ Untuk game lain yang menggunakan sarana marketing cukup fantastis adalah AOV, ya
 Kesimpulan..
 
 Game Rube’s Lab menjadi menarik karena challenge atau tantangan yang disajikan, kerumitan yang bertahap melalui level-level, membuat pemain akan selalu merasa penasaran dan tertantang untuk menyelesaikan game ini. Dari pengalaman pribadi saya belum pernah menyelesaikan game ini hingga level akhir, dikarenakan permasalahan yang cukup sulit, dan waktu yang diperlukan untuk bermain game ini cukup banyak. Game ini cukup sesuai dengan tipikal orang yang senang berpikir dan menganalisis suatu permasalahan. Target pasar, game ini dapat dimainkan oleh seseorang dengan tingkat usia kurang lebih 7 - 50 tahun namun sesuai dengan lingkungan kesehariannya. Dan mungkin akan lebih menarik bagi orang usia kurang lebih 15 - 30 tahun.
-
- ```
