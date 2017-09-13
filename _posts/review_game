@@ -1,18 +1,18 @@
--```
- -	---
- -	layout: post
- -	title:  "your title here"
- -	tags: your tags here
- -	class: post
- -	---
+```
+---
+layout: post
+title:  "REVIEW GAME RUBE’S LAB"
+tags: review
+class: post
+---
  
-- Lab Rube merupakan sebuah permainan yang masuk dalam kategori puzzle. Disetiap level dalam permainan ini kita harus memecahkan teka-teki yang di buat oleh Dr. Evil, dimana dalam memecahkannya menggunakan logika dan imajinasi yang kamu punya. Memecahkan permainan ini juga hanya menggunakan alat-alat yang terbatas. Buatlah mekanisme yang menakjubkan dalam setiap level.
+Lab Rube merupakan sebuah permainan yang masuk dalam kategori puzzle. Disetiap level dalam permainan ini kita harus memecahkan teka-teki yang di buat oleh Dr. Evil, dimana dalam memecahkannya menggunakan logika dan imajinasi yang kamu punya. Memecahkan permainan ini juga hanya menggunakan alat-alat yang terbatas. Buatlah mekanisme yang menakjubkan dalam setiap level.
 
-- DPE Framework
+DPE Framework
 
 
-- -Learning
-- Pada game ini, aspek pembelajaran menjadi point utama, yaitu dalam setiap level dari game ini pemain diarahkan untuk mempelajari setiap alat yang harus digunakan untuk menjalankan puzzle fisika yang ada. Setiap kenaikan level, akan lebih banyak alat-alat yang memiliki fungsi beragam, sehingga memerlukan analisa yang baik dari pemain, di sini pemain akan merasa tertantang untuk menyelesaikan setiap permasalahan dari puzzle fisika yang ada.
+-Learning
+Pada game ini, aspek pembelajaran menjadi point utama, yaitu dalam setiap level dari game ini pemain diarahkan untuk mempelajari setiap alat yang harus digunakan untuk menjalankan puzzle fisika yang ada. Setiap kenaikan level, akan lebih banyak alat-alat yang memiliki fungsi beragam, sehingga memerlukan analisa yang baik dari pemain, di sini pemain akan merasa tertantang untuk menyelesaikan setiap permasalahan dari puzzle fisika yang ada.
 
 - Storytelling
 Storytelling tidak menjadi hal pokok dalam game ini. Pada game ini hanya memuat dua karakter, yaitu Dr. Evil, dan doktor yang menjadi pengarah untuk pemain. Selain itu dalam setiap levelnya tidak menggambarkan suatu cerita, tidak terkait satu sama lain. Setiap levelnya saling bebas. Latar yang digunakan pun abstrak, tidak menggambarkan lab atau sesuatu yang ada di dunia nyata. Game ini lebih menjual teka-teki atau tantangan pada setiap levelnya dengan kerumitan yang meningkat.
