@@ -9,9 +9,8 @@ twitter_username: retnow22  # Twitter ID
 github_username:  retnow22 # Github ID
 facebook_username: Retno Wulandari  # Facebook ID
 duoshuo_username: waylau # Duoshuo ID
-google-analytics_id: UA-50593531-1  # Google Analytics ID
 rss_url: "/feed.xml"  # RSS 订阅 URL
-logo_image: "/images/logo.png"  # LOGO 图片地址
+logo_image: ""  # LOGO 图片地址
 # Build settings
 gems: [jekyll-paginate]
 markdown: rdiscount
