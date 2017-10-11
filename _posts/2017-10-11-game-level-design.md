@@ -5,4 +5,4 @@ class: post
 ---
 
 Level Design
-"/images/level design.jpeg"
+<center><img style="margin-top:2%; margin-bottom:2%" src='/images/level design.jpeg'></center>
