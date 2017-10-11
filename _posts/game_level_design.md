@@ -5,4 +5,4 @@ tags: Design Document
 class: post
 ---
 
-'/images/level design.jpeg'
+"/images/level design.jpeg"
